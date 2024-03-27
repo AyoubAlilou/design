@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayoub Alilou</h1>
+<h1 align="center">Hi 👋, I'm Ayoub Alilouu</h1>
 <h3 align="center">A Software Engineer & passionate frontend developer from Tunisia</h3>
 <p align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubalilou&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubalilou" /> </p>
